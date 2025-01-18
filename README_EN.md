@@ -1,0 +1,3 @@
+# Science Fiction Fan Club(Sci-Fi Fan Club)
+
+  With the rapid development of technology and the widespread application of blockchain technology, the intersection of science fiction culture and virtual communities has become an important direction for future development. The Sci-Fi Fan Club project is a social experiment initiated by anonymous science fiction fans, aimed at providing a decentralized platform based on blockchain technology for global science fiction enthusiasts. The project seeks to build an ecosystem that integrates science fiction creation, social interaction, virtual assets, and digital culture.
